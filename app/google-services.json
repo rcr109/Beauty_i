@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1047772937561",
+    "firebase_url": "https://beautyi.firebaseio.com",
+    "project_id": "beautyi",
+    "storage_bucket": "beautyi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047772937561:android:42327e35f127cd9540e048",
+        "android_client_info": {
+          "package_name": "projects.rcr.beauty_i"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047772937561-hkjpd3t10p48p9d3q588uvfa49jf3acs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "projects.rcr.beauty_i",
+            "certificate_hash": "f4b909ec89a4fd0686c5fa09c9aff565680e1c95"
+          }
+        },
+        {
+          "client_id": "1047772937561-4k1b0bsl6ad5ech9dske9jidh14jflv3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOqDt_ovKmaOapOFhIklsGjAa7ucEwsmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047772937561-4k1b0bsl6ad5ech9dske9jidh14jflv3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    <LinearLayout android:orientation="vertical" android:paddingRight="16dp" android:paddingLeft="16dp" android:layout_height="match_parent" android:layout_width="match_parent" xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="Dados do profissional:"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <EditText
+        android:id="@+id/txtNomeProf"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:ems="10"
+            android:hint="Nome" />
+
+    <EditText
+        android:id="@+id/txtEspecProf"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Especialidade" />
+
+    <EditText
+        android:id="@+id/txtTelProf"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Telefone" />
+
+    <Button
+        android:id="@+id/btn_CadProf"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="Cadastrar"
+        android:textAlignment="center" />
+
+
+</LinearLayout>
